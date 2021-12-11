@@ -2,6 +2,7 @@
   "name": "israelmrios/GitHub-Packages-Demo",
   "repository": {
     "url": "git://github.com/israelmrios/GitHub-Packages-Demo.git"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
